@@ -20,7 +20,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
    ```sh
    git clonehttps://github.com/Sudhanshushekhar6/Development_Assignment.git
-   cd study-mbbs-abroad
+
    ```
 2. **Install dependencies:** *(Only if using Tailwind)*
    ```sh
