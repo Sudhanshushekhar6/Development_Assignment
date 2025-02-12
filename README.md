@@ -1,8 +1,7 @@
-
 # Study MBBS Abroad - Responsive Landing Page
 
 ## 🌎 Overview
-Welcome to the **Study MBBS Abroad** landing page repository! This project provides an engaging, fast-loading, and SEO-optimized platform for students looking to pursue MBBS programs abroad. The landing page includes country listings, program details, an admission process guide, and a lead generation form to capture potential applicants.
+Welcome to the **Study MBBS Abroad** landing page repository! This project provides an engaging, fast-loading, and SEO-optimized platform for students looking to pursue MBBS programs abroad. The landing page includes country listings, program details, an admission process guide, and a lead generation form.
 
 ## 🚀 Live Demo
 [Live Demo on Netlify/Vercel](#) *(Replace with actual link)*
@@ -10,7 +9,9 @@ Welcome to the **Study MBBS Abroad** landing page repository! This project provi
 ## 🏗 Tech Stack
 - **Frontend:** HTML, CSS (Tailwind/Bootstrap), JavaScript
 - **Analytics & Tracking:** Google Analytics, Facebook Pixel
+
 ## 📂 Folder Structure
+```
 project-root/
 │── public/
 │   ├── images/          # Contains all image assets
@@ -21,17 +22,16 @@ project-root/
 │── README.md            # Project documentation
 │── server.js            # Server-side file (if applicable)
 │── projectreport.pdf    # Project report document
+```
 
 ## 📥 Installation & Setup
 ### 🔧 Prerequisites
-Ensure you have the following installed:
 - Node.js & npm (for Tailwind CSS)
 
 ### 🛠 Steps to Run Locally
 1. **Clone the repository:**
    ```sh
-   git clonehttps://github.com/Sudhanshushekhar6/Development_Assignment.git
-
+   git clone https://github.com/Sudhanshushekhar6/Development_Assignment.git
    ```
 2. **Install dependencies:** *(Only if using Tailwind)*
    ```sh
@@ -44,13 +44,11 @@ Ensure you have the following installed:
 - **Facebook Pixel:** Add script for event tracking
 
 ## ✨ Features
-✔️Responsive UI: Designed with Tailwind CSS or Bootstrap for a mobile-friendly experience.
-✔️SEO-Optimized: Structured content to improve search engine visibility.
-✔️Performance-Focused: Fast loading and optimized assets.
-✔️Lead Generation: Integrated form with validation to capture applicant information.
-✔️Tracking Integration: Google Analytics & Facebook Pixel for insights and performance tracking 
+✔️ Responsive UI: Tailwind CSS or Bootstrap for mobile-friendliness.
+✔️ SEO-Optimized: Structured content for better search visibility.
+✔️ Performance-Focused: Fast loading and optimized assets.
+✔️ Lead Generation: Integrated form with validation.
+✔️ Tracking Integration: Google Analytics & Facebook Pixel for insights.
 
 ## 📜 License
 This project is licensed under the MIT License.
-
-
