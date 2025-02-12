@@ -20,7 +20,7 @@ project-root/
 │   ├── script.js        # JavaScript file
 │
 │── README.md            # Project documentation
-│── server.js            # Server-side file (if applicable)
+│── server.js            # Server-side file 
 │── projectreport.pdf    # Project report document
 ```
 
@@ -33,7 +33,7 @@ project-root/
    ```sh
    git clone https://github.com/Sudhanshushekhar6/Development_Assignment.git
    ```
-2. **Install dependencies:** *(Only if using Tailwind)*
+2. **Install dependencies:** 
    ```sh
    npm install
    ```
@@ -44,11 +44,11 @@ project-root/
 - **Facebook Pixel:** Add script for event tracking
 
 ## ✨ Features
-✔️ Responsive UI: Tailwind CSS or Bootstrap for mobile-friendliness.
-✔️ SEO-Optimized: Structured content for better search visibility.
-✔️ Performance-Focused: Fast loading and optimized assets.
-✔️ Lead Generation: Integrated form with validation.
-✔️ Tracking Integration: Google Analytics & Facebook Pixel for insights.
+✔️ Responsive UI: Tailwind CSS or Bootstrap for mobile-friendliness.  
+✔️ SEO-Optimized: Structured content for better search visibility.  
+✔️ Performance-Focused: Fast loading and optimized assets.  
+✔️ Lead Generation: Integrated form with validation.  
+✔️ Tracking Integration: Google Analytics & Facebook Pixel for insights. 
 
 ## 📜 License
 This project is licensed under the MIT License.
