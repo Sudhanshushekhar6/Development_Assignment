@@ -43,12 +43,13 @@ project-root/
 - **Google Analytics:** Insert tracking ID in `<head>`
 - **Facebook Pixel:** Add script for event tracking
 
-## ✨ Features
-✔️ Responsive UI: Tailwind CSS or Bootstrap for mobile-friendliness.  
-✔️ SEO-Optimized: Structured content for better search visibility.  
-✔️ Performance-Focused: Fast loading and optimized assets.  
-✔️ Lead Generation: Integrated form with validation.  
-✔️ Tracking Integration: Google Analytics & Facebook Pixel for insights. 
+## ✨ **Features**
+
+✔️ **Responsive UI:** Tailwind CSS or Bootstrap for mobile-friendliness.  
+✔️ **SEO-Optimized:** Structured content for better search visibility.  
+✔️ **Performance-Focused:** Fast loading and optimized assets.  
+✔️ **Lead Generation:** Integrated form with validation.  
+✔️ **Tracking Integration:** Google Analytics & Facebook Pixel for insights.
 
 ## 📜 License
 This project is licensed under the MIT License.
