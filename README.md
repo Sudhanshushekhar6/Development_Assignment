@@ -11,8 +11,6 @@ Welcome to the **Study MBBS Abroad** landing page repository! This project provi
 - **Frontend:** HTML, CSS (Tailwind/Bootstrap), JavaScript
 - **Analytics & Tracking:** Google Analytics, Facebook Pixel
 ## 📂 Folder Structure
-
-
 project-root/
 │── public/
 │   ├── images/          # Contains all image assets
