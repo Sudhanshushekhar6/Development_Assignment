@@ -44,11 +44,11 @@ Ensure you have the following installed:
 - **Facebook Pixel:** Add script for event tracking
 
 ## ✨ Features
-✔️ Responsive UI with Tailwind CSS  
-✔️ SEO-optimized content  
-✔️ Fast-loading performance  
-✔️ Lead generation form with validation  
-✔️ Google Analytics & Facebook Pixel integration  
+✔️Responsive UI: Designed with Tailwind CSS or Bootstrap for a mobile-friendly experience.
+✔️SEO-Optimized: Structured content to improve search engine visibility.
+✔️Performance-Focused: Fast loading and optimized assets.
+✔️Lead Generation: Integrated form with validation to capture applicant information.
+✔️Tracking Integration: Google Analytics & Facebook Pixel for insights and performance tracking 
 
 ## 📜 License
 This project is licensed under the MIT License.
