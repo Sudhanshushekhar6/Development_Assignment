@@ -19,7 +19,7 @@ Ensure you have the following installed:
 ### 🛠 Steps to Run Locally
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/study-mbbs-abroad.git
+   git clonehttps://github.com/Sudhanshushekhar6/Development_Assignment.git
    cd study-mbbs-abroad
    ```
 2. **Install dependencies:** *(Only if using Tailwind)*
