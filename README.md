@@ -4,7 +4,7 @@
 Welcome to the **Study MBBS Abroad** landing page repository! This project provides an engaging, fast-loading, and SEO-optimized platform for students looking to pursue MBBS programs abroad. The landing page includes country listings, program details, an admission process guide, and a lead generation form.
 
 ## 🚀 Live Demo
-[Live Demo on Netlify/Vercel](#) *(Replace with actual link)*
+[https://globalmedquest.netlify.app/](#) 
 
 ## 🏗 Tech Stack
 - **Frontend:** HTML, CSS (Tailwind/Bootstrap), JavaScript
